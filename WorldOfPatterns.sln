@@ -16,8 +16,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePattern", "BridgePatt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceConditionalsWithPolymorphism", "ReplaceConditionalsWithPolymorphism\ReplaceConditionalsWithPolymorphism.csproj", "{3261514E-3B29-440E-B9E8-220F09D428A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{10388C99-82C5-4989-8185-46F0A44D6615}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,10 +54,6 @@ Global
 		{3261514E-3B29-440E-B9E8-220F09D428A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3261514E-3B29-440E-B9E8-220F09D428A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3261514E-3B29-440E-B9E8-220F09D428A7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{10388C99-82C5-4989-8185-46F0A44D6615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{10388C99-82C5-4989-8185-46F0A44D6615}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{10388C99-82C5-4989-8185-46F0A44D6615}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{10388C99-82C5-4989-8185-46F0A44D6615}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
